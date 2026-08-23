@@ -100,6 +100,8 @@ DIVIDE(
 
 The final Power BI dashboard provides an overview of the restaurant's sales performance through:
 
+![Restaurant Sales Trend Dashboard](dashboard.png)
+
 - Total Sales
 - Highest Daily Total
 - Highest Sales Date
