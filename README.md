@@ -114,7 +114,7 @@ The final Power BI dashboard provides an overview of the restaurant's sales perf
 
 ### Overall Sales Performance
 
-The restaurant recorded total sales of **₦34.43 million** during the analysis period.
+The restaurant recorded total sales of **₦38.97 million** during the analysis period.
 
 ### Highest Daily Sales
 
